@@ -32,7 +32,7 @@ kind: Service
 metadata:
   labels:
     app: devops-argocd-test
-  name: devops-argocd-test
+  name: devops
   namespace: default
 spec:
   ports:
